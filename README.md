@@ -16,4 +16,6 @@ instead of this ![Screenshot 2025-04-17 004324](https://github.com/user-attachme
 
 you will have this ![Screenshot 2025-04-17 004459](https://github.com/user-attachments/assets/7ff78ed0-072d-48c7-b715-40d91f4bd24e)
 
+also btw u need to not have the rotation on 90 if your importing custom skins
+
 ---
