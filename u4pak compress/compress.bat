@@ -1,1 +1,0 @@
-python u4pak.py pack "FortniteGame.pak" FortniteGame -z -p
