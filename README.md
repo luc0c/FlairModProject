@@ -6,9 +6,14 @@ launch the thing by opening the file called *FortniteGame.uproject*
 you need to compile jaa yourself you can do that by downloading the project opening the sln with vs 2017 and then look for "FortniteGame" under the UE4 and in in the "Ganes" folder right click on fortnitegame and then click build and then wait for it to be done
 
 ---
-## Credit
+## FIXES FOR THINGS (update this if you find fixes for things plesae)
 
-- [Zylox](https://twitter.com/zyloxmods) - Code fixes and additions
-- [boredcrow24](https://twitter.com/boredcrow24) - Code fixes and additions
-- [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) - UHT Dump
-- [UE4GameProjectGenerator](https://github.com/Buckminsterfullerene02/UE4GameProjectGenerator) - Project generation
+# emotes being sideways
+this is an easy fix when importing the emote change the import rotation x value to 90 
+![Screenshot 2025-04-17 005020](https://github.com/user-attachments/assets/9a9371ba-ec03-4dee-a19f-f6a6878c93dd)
+
+instead of this ![Screenshot 2025-04-17 004324](https://github.com/user-attachments/assets/7afe0686-968d-41db-aa74-806ed5684dda)
+
+you will have this ![Screenshot 2025-04-17 004459](https://github.com/user-attachments/assets/7ff78ed0-072d-48c7-b715-40d91f4bd24e)
+
+---
