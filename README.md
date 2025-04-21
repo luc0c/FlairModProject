@@ -4,7 +4,8 @@ yea sao this is for modding so lets go!!!!
 btw if you have issues theres fixes if you scroll down and also if you find a fix to a n issue please addd it to the fixes for things sections
 launch the thing by opening the file called *FortniteGame.uproject*
 
-you need to compile jaa yourself you can do that by downloading the project opening the sln with vs 2017 and then look for "FortniteGame" under the UE4 and in in the "Ganes" folder right click on fortnitegame and then click build and then wait for it to be done
+
+You need to compile JAA yourself you can do that by downloading the project opening the sln with vs 2017 or higher, and then look for "FortniteGame" in the "Games" folder right click on FortniteGame and then click build and then wait for it to be done
 
 UE Version: 4.26 (Should've probably told me)
 ---
