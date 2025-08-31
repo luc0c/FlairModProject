@@ -1,5 +1,8 @@
 # Flair modding project so peak
 
+This project is now open src due to lunar being weird and this is kinda old so idk if it works just making it public.
+
+
 yea sao this is for modding so lets go!!!!
 btw if you have issues theres fixes if you scroll down and also if you find a fix to a n issue please addd it to the fixes for things sections
 launch the thing by opening the file called *FortniteGame.uproject*
